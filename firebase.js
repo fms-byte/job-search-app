@@ -3,12 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBhUzeiBshsambqniVQOP8tXIWYdr7MFOI",
-  authDomain: "job-search-app-a5cae.firebaseapp.com",
-  projectId: "job-search-app-a5cae",
-  storageBucket: "job-search-app-a5cae.appspot.com",
-  messagingSenderId: "422759291382",
-  appId: "1:422759291382:web:20ef6f8a30d745fe7fcfd7",
+   //add your firebase api key here
 };
 
 // const app = initializeApp(firebaseConfig);
